@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorBack">#E7E7E7</color>
+    <color name="gray">#F3F3F3</color>
+    <color name="PrimaryColor">#54CCBC</color>
+    <color name="colorPrimary">#A6A6A6</color>  <!-- Синий 500 -->
+    <color name="colorPrimaryDark">#A6A6A6</color>  <!-- Синий 700 -->
+    <color name="colorAccent">#54CCBC</color>  <!-- Оранжевый 500 -->
+
+    <!-- Дополнительные цвета -->
+    <color name="colorPrimaryLight">#A6A6A6</color>  <!-- Синий 300 -->
+    <color name="textColorPrimary">#212121</color>  <!-- Основной текст -->
+    <color name="textColorSecondary">#757575</color>
+</resources>

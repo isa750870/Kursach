@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Частная клиника</string>
+
+    <string-array name="tests_array">
+        <item>Общий анализ крови</item>
+        <item>Биохимический анализ крови</item>
+        <item>Анализ мочи</item>
+        <item>Гормональные исследования</item>
+        <item>Анализ на COVID-19</item>
+    </string-array>
+    <string name="delete_test_title">Удаление анализа</string>
+    <string name="delete_test_message">Вы уверены, что хотите удалить %s?</string>
+    <string name="delete_button">Удалить</string>
+    <string name="cancel_appointment_title">Отменить запись?</string>
+    <string name="cancel_appointment_message">Вы действительно хотите отменить запись к %1$s на %2$s?</string>
+    <string name="cancel_appointment_button">Отменить запись</string>
+    <string name="appointment_cancelled">Запись отменена</string>
+    <string name="appointment_cancel_error">Ошибка отмены записи</string>
+</resources>
